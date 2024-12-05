@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thelegendofmario
-- 👀 I’m interested in Godot game dev and Interactive fiction
+- 👀 I’m interested in Godot game dev, LÖVE 2D and Interactive fiction
 - 🌱 I’m currently learning GDScript
 <!---- 💞️ I’m looking to collaborate on absolutley nothing at this point. --->
 - ⚡ Fun fact: I'm a part of Hackclub! (you should join)
